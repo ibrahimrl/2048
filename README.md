@@ -62,3 +62,5 @@ Check out the visual representation of the 2048 game in action. These screenshot
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+See the [LICENSE](LICENSE) file for details.
